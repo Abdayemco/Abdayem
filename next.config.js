@@ -1,9 +1,1 @@
-
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  images: {
-    domains: ['localhost'],
-  },
-};
-
-module.exports = nextConfig;
+// Placeholder content for next.config.js
