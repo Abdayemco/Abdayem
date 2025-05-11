@@ -1,1 +1,0 @@
-This is part 1 of the real content files for the Abdayem site.
